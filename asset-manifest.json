@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Week5-React-Calculator1/static/css/main.665502dc.css",
-    "main.js": "/Week5-React-Calculator1/static/js/main.7f63df7c.js",
+    "main.js": "/Week5-React-Calculator1/static/js/main.2b6a581f.js",
     "index.html": "/Week5-React-Calculator1/index.html",
     "main.665502dc.css.map": "/Week5-React-Calculator1/static/css/main.665502dc.css.map",
-    "main.7f63df7c.js.map": "/Week5-React-Calculator1/static/js/main.7f63df7c.js.map"
+    "main.2b6a581f.js.map": "/Week5-React-Calculator1/static/js/main.2b6a581f.js.map"
   },
   "entrypoints": [
     "static/css/main.665502dc.css",
-    "static/js/main.7f63df7c.js"
+    "static/js/main.2b6a581f.js"
   ]
 }
