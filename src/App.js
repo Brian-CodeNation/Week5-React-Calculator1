@@ -13,6 +13,8 @@ const App = () => {
       setSum(evaluate(expression))
     } else if (string === "C") {
       setSum("")
+    } else if (string === "x") {
+      setSum(sum + "*")
     } else {
       setSum(sum + string)
     }
